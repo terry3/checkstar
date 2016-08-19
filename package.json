@@ -1,0 +1,27 @@
+{
+  "name": "checkstar",
+  "version": "0.0.0",
+  "description": "Check github star .",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "",
+    "build": ""
+  },
+  "keywords": [
+    "github",
+    "star"
+  ],
+  "author": "terry3",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "latest",
+    "mongodb": "latest"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "~2.2.0",
+    "gulp": "latest",
+    "mocha": "latest"
+  }
+}
