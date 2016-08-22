@@ -16,7 +16,8 @@
   "license": "MIT",
   "dependencies": {
     "superagent": "latest",
-    "mongodb": "latest"
+    "mongodb": "latest",
+    "node-schedule": "latest"
   },
   "devDependencies": {
     "chai": "^3.5.0",

@@ -37,6 +37,8 @@ function fetchData() {
     .end((err, res) => {
       if (err === null) {
         saveGitRepo(res.body);
+      } else {
+        console.log('err github api: ' + err);
       }
     });
 }
